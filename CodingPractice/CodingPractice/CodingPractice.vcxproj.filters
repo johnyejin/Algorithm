@@ -16,11 +16,17 @@
     <Filter Include="소스 파일\Baekjoon_STEP1">
       <UniqueIdentifier>{ddf51454-864e-40aa-82da-b5202f74649c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CodingTest_L">
+      <UniqueIdentifier>{f21c759a-c89e-4cda-825a-0a6f1b430e1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Baekjoon_STEP2">
+      <UniqueIdentifier>{b91857a5-e4c9-4684-aa21-db2237f3c95d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Backjoon_STEP3">
+      <UniqueIdentifier>{1ad03912-605d-4a99-aef6-161b6679751a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Baekjoon2741.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -40,18 +46,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Baekjoon15686.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Baekjoon2557.cpp">
@@ -89,6 +83,33 @@
     </ClCompile>
     <ClCompile Include="Baekjoon2588.cpp">
       <Filter>소스 파일\Baekjoon_STEP1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>소스 파일\CodingTest_L</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>소스 파일\CodingTest_L</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>소스 파일\CodingTest_L</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
+      <Filter>소스 파일\CodingTest_L</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon1330.cpp">
+      <Filter>소스 파일\Baekjoon_STEP2</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon9498.cpp">
+      <Filter>소스 파일\Baekjoon_STEP2</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2753.cpp">
+      <Filter>소스 파일\Baekjoon_STEP2</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2884.cpp">
+      <Filter>소스 파일\Baekjoon_STEP2</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon10817.cpp">
+      <Filter>소스 파일\Baekjoon_STEP2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
