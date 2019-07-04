@@ -111,5 +111,38 @@
     <ClCompile Include="Baekjoon10817.cpp">
       <Filter>소스 파일\Baekjoon_STEP2</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon2739.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon10950.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon8393.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon15552.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2741_2.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2742.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon11021.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon11022.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2438.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2439.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon10871.cpp">
+      <Filter>소스 파일\Backjoon_STEP3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
