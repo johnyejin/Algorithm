@@ -28,6 +28,18 @@
     <Filter Include="소스 파일\Baekjoon_STEP4">
       <UniqueIdentifier>{5f622831-da04-4869-8f9d-fbf4c306e75b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Baekjoon_STEP5">
+      <UniqueIdentifier>{17a2f091-fec8-403a-babe-e111e55efe48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스_Level1">
+      <UniqueIdentifier>{2906b152-68b3-4105-8d08-ee88fc86b452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스_Level2">
+      <UniqueIdentifier>{9af50404-0aeb-4d91-bdf9-808f44c69afc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스_Level3">
+      <UniqueIdentifier>{9872f31f-3fa8-49d4-8659-a9429f447016}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baekjoon2741.cpp">
@@ -155,6 +167,45 @@
     </ClCompile>
     <ClCompile Include="Baekjoon1110.cpp">
       <Filter>소스 파일\Baekjoon_STEP4</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon10818.cpp">
+      <Filter>소스 파일\Baekjoon_STEP5</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2562.cpp">
+      <Filter>소스 파일\Baekjoon_STEP5</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2920.cpp">
+      <Filter>소스 파일\Baekjoon_STEP5</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2577.cpp">
+      <Filter>소스 파일\Baekjoon_STEP5</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon3052.cpp">
+      <Filter>소스 파일\Baekjoon_STEP5</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon1546.cpp">
+      <Filter>소스 파일\Baekjoon_STEP5</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon8958.cpp">
+      <Filter>소스 파일\Baekjoon_STEP5</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon4344.cpp">
+      <Filter>소스 파일\Baekjoon_STEP5</Filter>
+    </ClCompile>
+    <ClCompile Include="완주하지못한선수.cpp">
+      <Filter>소스 파일\프로그래머스_Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="주식가격.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="2xn타일링.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="예상대진표.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자게임.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
