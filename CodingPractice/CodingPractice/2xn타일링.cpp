@@ -11,7 +11,7 @@ int solution(int n) {
 
 
 	for (int i = 3; i <= n; i++) {
-		dp[i] = (dp[i - 1] + dp[i - 2]) % 1000000007;   // 왜 저 숫자가..?
+		dp[i] = (dp[i - 1] + dp[i - 2]) % 1000000007;  
 	}
 	answer = dp[n];
 	return answer;

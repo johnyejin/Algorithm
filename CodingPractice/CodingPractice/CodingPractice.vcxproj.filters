@@ -40,6 +40,12 @@
     <Filter Include="소스 파일\프로그래머스_Level3">
       <UniqueIdentifier>{9872f31f-3fa8-49d4-8659-a9429f447016}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Baekjoon_STEP6">
+      <UniqueIdentifier>{7d34c948-37e1-43f5-9b6a-114d498d63f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스_Level4">
+      <UniqueIdentifier>{6aa2234c-258e-4e2d-aa1f-b731a044a689}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baekjoon2741.cpp">
@@ -206,6 +212,30 @@
     </ClCompile>
     <ClCompile Include="숫자게임.cpp">
       <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="15596.cpp">
+      <Filter>소스 파일\Baekjoon_STEP6</Filter>
+    </ClCompile>
+    <ClCompile Include="영어끝말잇기.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="기지국설치.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="모의고사.cpp">
+      <Filter>소스 파일\프로그래머스_Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="탑.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="기지국설치2.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="기지국설치_조혜영.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="3xn타일링.cpp">
+      <Filter>소스 파일\프로그래머스_Level4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
