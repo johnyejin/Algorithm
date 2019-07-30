@@ -268,9 +268,14 @@
     <ClCompile Include="CountAlphabet.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="기능개발.cpp" />
     <ClCompile Include="기지국설치.cpp" />
     <ClCompile Include="기지국설치2.cpp" />
     <ClCompile Include="기지국설치_조혜영.cpp" />
+    <ClCompile Include="더맵게1.cpp" />
+    <ClCompile Include="더맵게2(100점).cpp" />
+    <ClCompile Include="디스크정렬_힙_level3.cpp" />
+    <ClCompile Include="라면공장_힙_level2.cpp" />
     <ClCompile Include="모의고사.cpp" />
     <ClCompile Include="숫자게임.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
@@ -280,10 +285,13 @@
     <ClCompile Include="완주하지못한선수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="위장.cpp" />
+    <ClCompile Include="전화번호목록.cpp" />
     <ClCompile Include="주식가격.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="탑.cpp" />
+    <ClCompile Include="프린터.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

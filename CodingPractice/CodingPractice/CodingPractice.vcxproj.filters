@@ -237,5 +237,29 @@
     <ClCompile Include="3xn타일링.cpp">
       <Filter>소스 파일\프로그래머스_Level4</Filter>
     </ClCompile>
+    <ClCompile Include="전화번호목록.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="위장.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="프린터.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="기능개발.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="더맵게1.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="더맵게2(100점).cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="라면공장_힙_level2.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="디스크정렬_힙_level3.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
