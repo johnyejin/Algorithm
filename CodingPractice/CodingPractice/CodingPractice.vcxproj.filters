@@ -261,5 +261,20 @@
     <ClCompile Include="디스크정렬_힙_level3.cpp">
       <Filter>소스 파일\프로그래머스_Level3</Filter>
     </ClCompile>
+    <ClCompile Include="단속카메라.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="저울(실패).cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="저울(성공).cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="섬연결하기(실패).cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="섬연결하기(성공).cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

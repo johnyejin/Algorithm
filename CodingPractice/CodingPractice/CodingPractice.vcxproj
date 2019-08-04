@@ -272,11 +272,14 @@
     <ClCompile Include="기지국설치.cpp" />
     <ClCompile Include="기지국설치2.cpp" />
     <ClCompile Include="기지국설치_조혜영.cpp" />
+    <ClCompile Include="단속카메라.cpp" />
     <ClCompile Include="더맵게1.cpp" />
     <ClCompile Include="더맵게2(100점).cpp" />
     <ClCompile Include="디스크정렬_힙_level3.cpp" />
     <ClCompile Include="라면공장_힙_level2.cpp" />
     <ClCompile Include="모의고사.cpp" />
+    <ClCompile Include="섬연결하기(성공).cpp" />
+    <ClCompile Include="섬연결하기(실패).cpp" />
     <ClCompile Include="숫자게임.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -286,6 +289,8 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="위장.cpp" />
+    <ClCompile Include="저울(성공).cpp" />
+    <ClCompile Include="저울(실패).cpp" />
     <ClCompile Include="전화번호목록.cpp" />
     <ClCompile Include="주식가격.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
