@@ -276,5 +276,26 @@
     <ClCompile Include="섬연결하기(성공).cpp">
       <Filter>소스 파일\프로그래머스_Level3</Filter>
     </ClCompile>
+    <ClCompile Include="등굣길.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="타겟넘버.cpp">
+      <Filter>소스 파일\프로그래머스_Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="네트워크.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="단어변환%28실패%29.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="여행경로%28실패%29.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="예산.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="입국심사.cpp">
+      <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
