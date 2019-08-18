@@ -46,6 +46,12 @@
     <Filter Include="소스 파일\프로그래머스_Level4">
       <UniqueIdentifier>{6aa2234c-258e-4e2d-aa1f-b731a044a689}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준_삼성SW역량테스트기출">
+      <UniqueIdentifier>{c48a941c-5741-4247-a298-88996cf0db39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준_DFS/BFS">
+      <UniqueIdentifier>{0c5e9965-3708-475d-8cef-c912e01f1d3b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baekjoon2741.cpp">
@@ -296,6 +302,36 @@
     </ClCompile>
     <ClCompile Include="입국심사.cpp">
       <Filter>소스 파일\프로그래머스_Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="시험감독%2813458%29.cpp">
+      <Filter>소스 파일\백준_삼성SW역량테스트기출</Filter>
+    </ClCompile>
+    <ClCompile Include="퇴사(14501).cpp">
+      <Filter>소스 파일\백준_삼성SW역량테스트기출</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS와BFS(1260).cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="바이러스(2606).cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="단지번호붙이기(2667).cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="유기농배추(1012).cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="미로탐색.cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토(7576).cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토(7569).cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="숨박꼭질.cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
