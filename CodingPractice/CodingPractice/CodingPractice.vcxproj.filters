@@ -52,6 +52,12 @@
     <Filter Include="소스 파일\백준_DFS/BFS">
       <UniqueIdentifier>{0c5e9965-3708-475d-8cef-c912e01f1d3b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준_동적계획법">
+      <UniqueIdentifier>{bca82a8c-611b-4f51-a75d-2e7ab567023c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준_정렬">
+      <UniqueIdentifier>{8b3bbe90-90a3-427f-b366-8c244d9995ea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baekjoon2741.cpp">
@@ -332,6 +338,33 @@
     </ClCompile>
     <ClCompile Include="숨박꼭질.cpp">
       <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="01타일%281904%29.cpp">
+      <Filter>소스 파일\백준_동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="파도반수열.cpp">
+      <Filter>소스 파일\백준_동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="RGB거리.cpp">
+      <Filter>소스 파일\백준_동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="계단오르기(2579).cpp">
+      <Filter>소스 파일\백준_동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="1로만들기.cpp">
+      <Filter>소스 파일\백준_동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="쉬운계단수.cpp">
+      <Filter>소스 파일\백준_동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="단어정렬.cpp">
+      <Filter>소스 파일\백준_정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="단어정렬2.cpp">
+      <Filter>소스 파일\백준_정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="나이순정렬.cpp">
+      <Filter>소스 파일\백준_정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
