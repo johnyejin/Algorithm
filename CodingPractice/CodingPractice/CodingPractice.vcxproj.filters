@@ -58,11 +58,32 @@
     <Filter Include="소스 파일\백준_정렬">
       <UniqueIdentifier>{8b3bbe90-90a3-427f-b366-8c244d9995ea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준_큐">
+      <UniqueIdentifier>{5309ddd1-16c7-4cd4-b3d8-f6e91fcf316b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준_완전탐색">
+      <UniqueIdentifier>{137ffc24-ea45-4de0-8111-29f0a2a2e9ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA_D3">
+      <UniqueIdentifier>{95e97f28-751f-4f60-a0fb-dd29fd17c78b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA_D4">
+      <UniqueIdentifier>{87bf2169-8616-4e7c-8df2-51192b3db14f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA_D5">
+      <UniqueIdentifier>{60a8280c-4804-4fa6-a064-c126f34fb66e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스_Level5">
+      <UniqueIdentifier>{04a07a10-3048-45e1-8f56-90e4a41bf5fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2019KAKAO">
+      <UniqueIdentifier>{cad45ed4-21b0-4272-aa89-02fd61713544}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2019NHN">
+      <UniqueIdentifier>{7eabd338-e4bf-40a4-b2ed-0a466143e4e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Baekjoon2741.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="kmp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -365,6 +386,57 @@
     </ClCompile>
     <ClCompile Include="나이순정렬.cpp">
       <Filter>소스 파일\백준_정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="카드2(2164).cpp">
+      <Filter>소스 파일\백준_큐</Filter>
+    </ClCompile>
+    <ClCompile Include="조세퍼스문제0.cpp">
+      <Filter>소스 파일\백준_큐</Filter>
+    </ClCompile>
+    <ClCompile Include="블랙잭(2798).cpp">
+      <Filter>소스 파일\백준_완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="분해합(2231).cpp">
+      <Filter>소스 파일\백준_완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="부분수열의합.cpp">
+      <Filter>소스 파일\SWEA_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="가능한시험점수.cpp">
+      <Filter>소스 파일\SWEA_D4</Filter>
+    </ClCompile>
+    <ClCompile Include="균형점.cpp">
+      <Filter>소스 파일\SWEA_D5</Filter>
+    </ClCompile>
+    <ClCompile Include="오픈채팅방.cpp">
+      <Filter>소스 파일\프로그래머스_Level5</Filter>
+    </ClCompile>
+    <ClCompile Include="1번.cpp">
+      <Filter>소스 파일\2019KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="2번.cpp">
+      <Filter>소스 파일\2019KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="3번.cpp">
+      <Filter>소스 파일\2019KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="4번.cpp">
+      <Filter>소스 파일\2019KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="5번.cpp">
+      <Filter>소스 파일\2019KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="6번.cpp">
+      <Filter>소스 파일\2019KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="7번.cpp">
+      <Filter>소스 파일\2019KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="벽부수고이동하기.cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="전광판광고.cpp">
+      <Filter>소스 파일\2019NHN</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
