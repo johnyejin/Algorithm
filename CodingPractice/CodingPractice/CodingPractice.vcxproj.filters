@@ -438,5 +438,17 @@
     <ClCompile Include="전광판광고.cpp">
       <Filter>소스 파일\2019NHN</Filter>
     </ClCompile>
+    <ClCompile Include="포도주시식.cpp">
+      <Filter>소스 파일\백준_동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="경로찾기.cpp">
+      <Filter>소스 파일\백준_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="곤충카드모으기.cpp">
+      <Filter>소스 파일\2019NHN</Filter>
+    </ClCompile>
+    <ClCompile Include="빈도수우선큐.cpp">
+      <Filter>소스 파일\2019NHN</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
