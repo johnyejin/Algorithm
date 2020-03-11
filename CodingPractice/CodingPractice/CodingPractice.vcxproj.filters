@@ -82,6 +82,12 @@
     <Filter Include="소스 파일\2019NHN">
       <UniqueIdentifier>{7eabd338-e4bf-40a4-b2ed-0a466143e4e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2019현대모비스">
+      <UniqueIdentifier>{a3a3c6b7-ad0e-4ee0-809b-c864b24be356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준_문자열">
+      <UniqueIdentifier>{f5d74fe4-b590-496b-aae5-fb21c760386b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="kmp.cpp">
@@ -449,6 +455,24 @@
     </ClCompile>
     <ClCompile Include="빈도수우선큐.cpp">
       <Filter>소스 파일\2019NHN</Filter>
+    </ClCompile>
+    <ClCompile Include="택시기사.cpp">
+      <Filter>소스 파일\2019현대모비스</Filter>
+    </ClCompile>
+    <ClCompile Include="렌터카1.cpp">
+      <Filter>소스 파일\2019현대모비스</Filter>
+    </ClCompile>
+    <ClCompile Include="렌터카2.cpp">
+      <Filter>소스 파일\2019현대모비스</Filter>
+    </ClCompile>
+    <ClCompile Include="알파벳찾기(10809).cpp">
+      <Filter>소스 파일\백준_문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="북북서_틀림.cpp">
+      <Filter>소스 파일\SWEA_D3</Filter>
+    </ClCompile>
+    <ClCompile Include="북북서_성공.cpp">
+      <Filter>소스 파일\SWEA_D3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
